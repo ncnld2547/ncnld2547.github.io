@@ -1,6 +1,4 @@
-# 💡 Welcome to my Vocabulary 🅰️
-
-# 🔑 My Keyword is Stream-ciper 🔒
+# Stream-ciper 🔒
 
 #### จากแหล่งที่มาของ "CISSP Glossary-Student Guide"
 
