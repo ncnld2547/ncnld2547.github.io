@@ -13,5 +13,5 @@
 | อ้างอิง | คำศัพท์ | ความหมาย |
 | ---- | ---- | ---- |
 | CISSP Glossary-Student Guide | Stream-ciper | When a cryptosystem performs its encryption on a bit-by-bit basis. |
-| 10 | YouTube | https://www.youtube.com/c/BorntodevTH |
+| Chat GPT | Stream-ciper | เมื่อระบบเข้ารหัสข้อมูล (cryptosystem) ดำเนินการเข้ารหัสข้อมูลโดยพิจารณาทีละบิต หมายความว่ากระบวนการเข้ารหัสจะทำงานในลักษณะที่จัดการข้อมูลแต่ละบิตของข้อความหรือข้อมูลทีละขั้นตอนอย่างละเอียด |
 | 100 | Instagram | https://www.instagram.com/borntodev |
