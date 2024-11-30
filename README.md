@@ -1,5 +1,7 @@
 # Welcome to My GitHub Page! 👋
 
+![Profile_Image](assets/image/profile.jpg)
+
 Hi, I'm Natchanan Lordee! 🎉  
 
 ## About Me
