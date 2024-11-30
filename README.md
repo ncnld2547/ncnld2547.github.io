@@ -7,5 +7,5 @@ Hi, I'm Natchanana Lordee! 🎉
 - 🌱 Passionate about Web Development and continuously learning new skills.  
 
 ## Education
-- **High School**: Rajadamri School
-- **University**: Expected to graduate in 2025  
+- High School: Rajadamri School
+- University: Expected to graduate in 2025  
