@@ -11,4 +11,4 @@ Hi, I'm Natchanan Lordee! 🎉
 - University: Expected to graduate in 2025  
 
 ## Assignments
-- WEEK01: [Authentication URL]: https://www.somewebsite.org
+- WEEK01: [Authentication URL](https://www.somewebsite.org)
