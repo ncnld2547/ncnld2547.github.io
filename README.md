@@ -1,8 +1,6 @@
 # Welcome to My GitHub Page! 👋
 
-<div>
-  <img src="assets/image/profile.png" alt="Profile Picture" width="150" height="150" style="">
-</div>
+![Profile_Image](assets/image/profile.jpg)
 
 Hi, I'm Natchanan Lordee! 🎉  
 
