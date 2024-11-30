@@ -8,4 +8,10 @@
 | CISSP Glossary-Student Guide | Stream-ciper | When a cryptosystem performs its encryption on a bit-by-bit basis. |
 | Chat GPT | Stream-ciper | เมื่อระบบเข้ารหัสข้อมูล (cryptosystem) ดำเนินการเข้ารหัสข้อมูลโดยพิจารณาทีละบิต หมายความว่ากระบวนการเข้ารหัสจะทำงานในลักษณะที่จัดการข้อมูลแต่ละบิตของข้อความหรือข้อมูลทีละขั้นตอนอย่างละเอียด |
 | Gemini | Stream-ciper | ระบบเข้ารหัสบางชนิดทำงานโดยการเข้ารหัสข้อมูลทีละบิต ซึ่งหมายถึงการแปลงค่า 0 หรือ 1 ในแต่ละบิตของข้อมูลให้เป็นค่าอื่น เพื่อสร้างรหัสที่แตกต่างออกไปจากข้อมูลต้นฉบับ |
+#### ช่องทางติดตาม BorntoDev
 
+| ลำดับที่ | ช่องทางติดตาม | ลิงก์ของแต่ละช่องทาง |
+| ---- | ---- | ---- |
+| 1 | Facebook | https://www.facebook.com/borntodev |
+| 10 | YouTube | https://www.youtube.com/c/BorntodevTH |
+| 100 | Instagram | https://www.instagram.com/borntodev |
