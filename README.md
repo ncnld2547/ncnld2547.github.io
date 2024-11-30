@@ -13,4 +13,4 @@ Hi, I'm Natchanan Lordee! 🎉
 - University: Expected to graduate in 2025  
 
 ## Assignments
-- WEEK01: [Stream ciper](C:\Laboratory\ncnld2547.github.io\stream-ciper.md)
+- WEEK01: [Stream ciper](https://ncnld2547.github.io/stream-ciper)
