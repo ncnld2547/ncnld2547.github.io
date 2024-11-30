@@ -1,6 +1,6 @@
 # Welcome to My GitHub Page! 👋
 
-Hi, I'm Natchanana Lordee! 🎉  
+Hi, I'm Natchanan Lordee! 🎉  
 
 ## About Me
 - 🔭 Currently pursuing a degree in Computer Science at Kasetsart University, Sriracha Campus.  
@@ -9,3 +9,6 @@ Hi, I'm Natchanana Lordee! 🎉
 ## Education
 - High School: Rajadamri School
 - University: Expected to graduate in 2025  
+
+## Assignments
+- WEEK01: [Authentication URL]: https://www.somewebsite.org
