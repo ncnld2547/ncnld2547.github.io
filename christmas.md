@@ -1,4 +1,4 @@
-![Card](assets/image/card.png)
+![Card](assets/image/christmas-card.png)
 
 ## คำอวยพรคริสต์มาสและปีใหม่ 🎄✨
 
