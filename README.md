@@ -15,3 +15,4 @@ Hi, I'm Natchanan Lordee! 🎉
 ## Assignments
 - WEEK01: [Stream ciper](/stream-ciper.md)
 - Christmas Card: [Christmas Card](/christmas.md)
+- Data Quality: [Data Quality](/integrity.md)
