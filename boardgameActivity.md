@@ -40,9 +40,9 @@
 
 ## สมาชิกในกลุ่ม
 - [Supakrit Somritjinda](https://jekoflash.github.io/boardGame)
-- Veeraya Lekchaoum
-- Kittima Choazadee
-- Nakorn Tungprapaporn
+- [Veeraya Lekchaoum](https://valin4637.github.io/boardGame)
+- [Kittima Choazadee](https://anniemark2522.github.io/boardgame/boardg)
+- [Nakorn Tungprapaporn](https://valin4637.github.io/boardGame)
 - Nonpawit Silabumrungrad
 
 
