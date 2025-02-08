@@ -43,6 +43,6 @@
 - [Veeraya Lekchaoum](https://valin4637.github.io/boardGame)
 - [Kittima Choazadee](https://anniemark2522.github.io/boardgame/boardg)
 - [Nakorn Tungprapaporn](https://valin4637.github.io/boardGame)
-- Nonpawit Silabumrungrad
+- [Nonpawit Silabumrungrad](https://valin4637.github.io/boardGame)
 
 
