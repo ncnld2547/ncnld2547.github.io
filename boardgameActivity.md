@@ -42,7 +42,7 @@
 - [Supakrit Somritjinda](https://jekoflash.github.io/boardGame)
 - [Veeraya Lekchaoum](https://valin4637.github.io/boardGame)
 - [Kittima Choazadee](https://anniemark2522.github.io/boardgame/boardg)
-- [Nakorn Tungprapaporn](https://valin4637.github.io/boardGame)
-- [Nonpawit Silabumrungrad](https://valin4637.github.io/boardGame)
+- [Nakorn Tungprapaporn](https://taedate.github.io/boardgame)
+- [Nonpawit Silabumrungrad](https://waterondaway.github.io/boardgame)
 
 
