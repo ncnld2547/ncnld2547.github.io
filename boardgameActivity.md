@@ -32,4 +32,5 @@
 - คนในกลุ่ม The Standard จำนวน 2 คน
 
 #### วิดีโอบรรยากาศการเล่นกิจกรรม
-![vidio](https://www.youtube.com/watch?v=tMAkRKSooh4)
+
+[Watch the video](https://www.youtube.com/watch?v=tMAkRKSooh4)
