@@ -13,4 +13,4 @@ data is not cached in modern browsers.
     - เป็นการตรวจสอบโดยละเอียดให้ชัดเจนว่าแอปพลิเคชันได้ตั้งค่า HTTP headers หรือการตั้งค่า anti-caching headers มีความถูกต้องและเหมาะสมเพื่อป้องกันการจัดเก็บข้อมูลที่ละเอียดอ่อนที่ถูกเก็บไว้ในแคชของเว็บเบราว์เซอร์ที่ผู้คนนิยม โดยตรวจสอบมุ่งเน้น ไปที่การตั้งค่า "ส่วนหัวป้องกันการแคช" เพื่อสั่งให้เบราว์เซอร์ไม่ทำการบันทึกข้อมูลสำคัญไว้ในแคช เพื่อป้องกันไม่ให้เก็บข้อมูลสำคัญไว้ในเครื่อง ซึ่งอาจถูกเข้าถึงจากผู้ไม่หวังในภายหลัง
 
 ## Partner
-- [Nonpawit Silabumrungrad](https://waterondaway.github.io/security-requirement.md)
+- [Nonpawit Silabumrungrad](https://waterondaway.github.io/security-requirement)
