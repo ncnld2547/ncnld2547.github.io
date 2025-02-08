@@ -18,3 +18,4 @@ Hi, I'm Natchanan Lordee! 🎉
 - Data Quality: [Data Quality](/integrity.md)
 - Board Game Activity : [Board Game Activity](/boardgameActivity.md)
 - Security Requirements : [Security Requirements](/security-requirement.md)
+- Security Control : [Security Control](/security-control.md)
