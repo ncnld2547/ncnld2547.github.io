@@ -39,7 +39,7 @@
 ทางกลุ่มผู้จัดทำได้ขออนุญาตแล้ว ในการถ่ายรูป ถ่ายวิดีโอและการเผยแพร่ลงสื่อ Social Media
 
 ## สมาชิกในกลุ่ม
-- [Supakrit Somritjinda](/jekoflash.github.io/boardGame)
+- [Supakrit Somritjinda](jekoflash.github.io/boardGame)
 - Veeraya Lekchaoum
 - Kittima Choazadee
 - Nakorn Tungprapaporn
